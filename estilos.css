@@ -1,0 +1,29 @@
+.primario {
+    border: 2px solid red;
+    position: relative;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+
+
+}
+
+.secundario {
+    border: 2px solid blue;
+    position: relative;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+
+
+}
+
+.terciario {
+    border: 2px solid green;
+    position: relative;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+
+
+}
