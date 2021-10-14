@@ -19,13 +19,14 @@
             </div>
             <div class="row">
             <div class="col"; style="background: lightgreen;">Lo más buscado</div>
-            <div class="col"; style="background: lightsalmon;">Novedades</div>
-            <div class="col"; style="background: lightskyblue;">Rellena este formulario para participar en sorteos</div>
+            <div class="col"; style="background: rgb(0, 252, 252);">Novedades</div>
+            <div class="col"; style="background: #ef79ff;">Noticias sobre NIKE</div>
+            <div class="col"; style="background: lightsalmon;">Formulario para sorteos</div>
             </div>
 
             <div class="footer">
 
-                <p>footer, redes sociales, sobre nosotros</p>
+                <p>footer, redes sociales, sobre nosotros, formulario para sorteos.</p>
             </div>
         
         </body>
