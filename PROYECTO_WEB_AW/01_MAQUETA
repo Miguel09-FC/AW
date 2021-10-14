@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale">
+        <link rel="stylesheet" href="estilomaqueta.css">
+        <title>Nikest</title>
+        <a href="web.html";>
+            <h5>INICIO</h5>
+            </a>
+    </head>
+
+        <body>
+        
+            <div class="head">
+            <h1>HEADER</h1>
+            <h3>Menú: Novedades, hombre (ropa), mujer(ropa), niño (ropa y calzado), calzado, barra de búsqueda.</h3>
+            </div>
+            <div class="row">
+            <div class="col"; style="background: lightgreen;">Lo más buscado</div>
+            <div class="col"; style="background: lightsalmon;">Novedades</div>
+            <div class="col"; style="background: lightskyblue;">Rellena este formulario para participar en sorteos</div>
+            </div>
+
+            <div class="footer">
+
+                <p>footer, redes sociales, sobre nosotros</p>
+            </div>
+        
+        </body>
+</html>                
